@@ -1,6 +1,8 @@
 The U.S. COVID-19 data in 2020.  
+
+
 The CSV file contains:  
-data: Date of observation.  
+date: Date of observation.  
 total_cases: Total confirmed cases of COVID-19.  
 new_cases: New confirmed cases of COVID-19.  
 total_deaths: Total deaths attributed to COVID-19.  
